@@ -2,13 +2,9 @@
 
 > CFP (англ. Call for Papers) — сбор заявок на выступление с докладом.
 
-Организаторы конференции и спикеры не знают друг о друге, в русскоязычном сообществе плохо налажен обмен информацией, где и какие мероприятия находятся в поиске спикеров.
-
-В этом списке собраны все ссылки на приём заявок, которые удалось найти.
-
 Знаете CFP, которого нет у нас? Создайте пулреквест! [Правила редактирования](CONTRIBUTING.md).
 
-Вдохновлено [web-standards-ru/cfp-list](https://github.com/web-standards-ru/cfp-list) и [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+Вдохновлено [web-standards-ru/cfp-list](https://github.com/web-standards-ru/cfp-list)
 
 ## Contents
 
