@@ -6,7 +6,7 @@
 
 В этом списке собраны все ссылки на приём заявок, которые удалось найти.
 
-Знаете CFP, которого нет у нас? Создайте пулреквест! [Правила редактирования](CONTRIBUTION.md).
+Знаете CFP, которого нет у нас? Создайте пулреквест! [Правила редактирования](CONTRIBUTING.md).
 
 Вдохновлено [web-standards-ru/cfp-list](https://github.com/web-standards-ru/cfp-list) и [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 
