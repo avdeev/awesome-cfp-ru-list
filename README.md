@@ -19,6 +19,7 @@
 | Конференция                            | Место        | Дата            | CFP                                                       |
 | -------------------------------------- | ------------ | --------------- | --------------------------------------------------------- |
 | [DUMP](https://dump-ekb.ru/)           | Екатеринбург | 21 апреля, 2023 | [RU](https://dump-ekb.ru/for_speakers)                    |
+| [DUMP](https://dump-ekb.ru/)           | Екатеринбург | 21 апреля, 2023 | [RU](https://dump-ekb.ru/for_speakers)                    |
 | [CodeFest 13](https://13.codefest.ru/) | Новосибирск  | 27-28 мая, 2023 | [RU](https://13.codefest.ru/speakers/ru/call-for-papers/) |
 
 ## Бэкенд
