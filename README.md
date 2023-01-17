@@ -12,20 +12,26 @@
 
 ## Contents
 
+- [Многопрофильные](#многопрофильные)
 - [Фронтенд](#фронтенд)
 - [Бэкенд](#бэкенд)
 - [Менеджмент](#менеджмент)
 - [HR](#hr)
 - [DevRel](#devrel)
 
+## Многопрофильные
+
+| Конференция                            | Место        | Дата            | CFP                                                       |
+| -------------------------------------- | ------------ | --------------- | --------------------------------------------------------- |
+| [DUMP](https://dump-ekb.ru/)           | Екатеринбург | 21 апреля, 2023 | [RU](https://dump-ekb.ru/for_speakers)                    |
+| [CodeFest 13](https://13.codefest.ru/) | Новосибирск  | 27-28 мая, 2023 | [RU](https://13.codefest.ru/speakers/ru/call-for-papers/) |
+
 ## Фронтенд
 
-| Конференция                                              | Место         | Дата                  | CFP                                                                        |
-| -------------------------------------------------------- | ------------- | --------------------- | -------------------------------------------------------------------------- |
-| [DUMP](https://dump-ekb.ru/)                             | Екатеринбург  | 21 апреля, 2023       | [RU](https://dump-ekb.ru/for_speakers)                                     |
-| [HolyJS](https://holyjs.ru/)                             | Москва/Онлайн | 15-16 и 21-22 мая, 2023 | [RU, EN](https://holyjs.ru/callforpapers/)                                     |
-| [CodeFest 13](https://13.codefest.ru/)                   | Новосибирск   | 27-28 мая, 2023       | [RU](https://13.codefest.ru/speakers/ru/call-for-papers/)                  |
-| [FrontendConf 2023](https://frontendconf.ru/moscow/2023) | Москва        | Сентябрь 2023         | [RU, EN](https://conf.ontico.ru/lectures/propose?conference=fc2023-moscow) |
+| Конференция                                              | Место         | Дата                    | CFP                                                                        |
+| -------------------------------------------------------- | ------------- | ----------------------- | -------------------------------------------------------------------------- |
+| [HolyJS](https://holyjs.ru/)                             | Москва/Онлайн | 15-16 и 21-22 мая, 2023 | [RU, EN](https://holyjs.ru/callforpapers/)                                 |
+| [FrontendConf 2023](https://frontendconf.ru/moscow/2023) | Москва        | Сентябрь 2023           | [RU, EN](https://conf.ontico.ru/lectures/propose?conference=fc2023-moscow) |
 
 ## Бэкенд
 
