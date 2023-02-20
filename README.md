@@ -33,7 +33,7 @@
 | [HolyJS](https://holyjs.ru/)                             | Москва/Онлайн | 15-16 и 21-22 мая, 2023 | [RU, EN](https://holyjs.ru/callforpapers/)                                 |
 | [FrontendConf 2023](https://frontendconf.ru/moscow/2023) | Москва        | Сентябрь 2023           | [RU, EN](https://conf.ontico.ru/lectures/propose?conference=fc2023-moscow) |
 | Angular meetup                                           | Москва        | 12.04.23                | [RU](https://polls.tinkoff.ru/s/cldsoah23002801kfhuej4vkr)                 |
-| moscowcss                                                | Москва        | ?                       | [RU](clc.to/moscowcss_cfp)                                                 |
+| moscowcss                                                | Москва        | конец марта             | [RU](clc.to/moscowcss_cfp)                                                 |
 
 ## Менеджмент
 
