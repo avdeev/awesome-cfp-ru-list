@@ -29,12 +29,13 @@
 
 ## Фронтенд
 
-| Конференция                                              | Место         | Дата                    | CFP                                                                        |
-| -------------------------------------------------------- | ------------- | ----------------------- | -------------------------------------------------------------------------- |
-| [HolyJS](https://holyjs.ru/)                             | Москва/Онлайн | 15-16 и 21-22 мая, 2023 | [RU, EN](https://holyjs.ru/callforpapers/)                                 |
-| [FrontendConf 2023](https://frontendconf.ru/moscow/2023) | Москва        | Сентябрь 2023           | [RU, EN](https://conf.ontico.ru/lectures/propose?conference=fc2023-moscow) |
-| Angular meetup                                           | Москва        | 12.04.23                | [RU](https://polls.tinkoff.ru/s/cldsoah23002801kfhuej4vkr)                 |
-| moscowcss                                                | Москва        | конец марта             | [RU](clc.to/moscowcss_cfp)                                                 |
+| Конференция                                              | Место         | Дата                                                 | CFP                                                                                                       |
+| -------------------------------------------------------- | ------------- | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| Angular meetup                                           | Москва        | 12.04.23                                             | [RU](https://polls.tinkoff.ru/s/cldsoah23002801kfhuej4vkr)                                                |
+| [HolyJS](https://holyjs.ru/)                             | Москва/Онлайн | 15-16 и 21-22 мая, 2023                              | [RU, EN](https://holyjs.ru/callforpapers/)                                                                |
+| moscowcss                                                | Москва        | май                                                  | [RU](https://clc.to/moscowcss_cfp)                                                                        |
+| [JS Nation](https://jsnation.com/)                       | Amsterdam     | June 1 (hybrid in Amsterdam) & June 5 (remote), 2023 | [EN](https://docs.google.com/forms/d/e/1FAIpQLSfVSzKBuAkUUCVf6cSA-Tuuo6MDNI4S7CB06vrnkzTdAZYQFA/viewform) |
+| [FrontendConf 2023](https://frontendconf.ru/moscow/2023) | Москва        | Сентябрь 2023                                        | [RU, EN](https://conf.ontico.ru/lectures/propose?conference=fc2023-moscow)                                |
 
 ## Менеджмент
 
