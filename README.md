@@ -27,6 +27,7 @@
 | [UIC DEV](https://uic.dev/)                        | Ижевск           | 30 сентября 2023    | есть только кнопка                                                                                        |
 | [Стачка 2023](https://nastachku.ru/)               | Ульяновск, УлГПУ | 15-16 сентября 2023 | [RU](https://nastachku.ru/lectures-new)                                                                   |
 | [YAMAL DEV CONF 2023](https://yamal.dev/conf/2023) | г. Салехард      | ...                 | ...                                                                                                       |
+| [HighLoad++ 2023](https://highload.ru/moscow/2023) | Москва           | 27 и 28 ноября 2023 | [RU, EN](https://conf.ontico.ru/lectures/propose?conference=hl2023-moscow)                                |
 
 ## Фронтенд
 
