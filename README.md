@@ -34,9 +34,9 @@
 | Конференция                                              | Место     | Дата                                                 | CFP                                                                                                       |
 | -------------------------------------------------------- | --------- | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | [JS Nation](https://jsnation.com/)                       | Amsterdam | June 1 (hybrid in Amsterdam) & June 5 (remote), 2023 | [EN](https://docs.google.com/forms/d/e/1FAIpQLSfVSzKBuAkUUCVf6cSA-Tuuo6MDNI4S7CB06vrnkzTdAZYQFA/viewform) |
-| [FrontendConf 2023](https://frontendconf.ru/moscow/2023) | Москва    | Сентябрь 2023                                        | [RU, EN](https://conf.ontico.ru/lectures/propose?conference=fc2023-moscow)                                |
+| [FrontendConf 2023](https://frontendconf.ru/moscow/2023) | Москва    | сентябрь 2023                                        | [RU, EN](https://conf.ontico.ru/lectures/propose?conference=fc2023-moscow)                                |
 | [HolyJS 2023 Autumn](https://holyjs.ru/)                 | -         | осень, 2023                                          | [RU, EN](https://holyjs.ru/callforpapers/)                                                                |
-| [moscowcss](https://vk.com/css_moscow)                   | Москва    | июнь, июль -                                         | [RU](https://clc.to/moscowcss_cfp)                                                                        |
+| [moscowcss](https://vk.com/css_moscow)                   | Москва    | июнь, июль                                           | [RU](https://clc.to/moscowcss_cfp)                                                                        |
 
 ## Менеджмент
 
