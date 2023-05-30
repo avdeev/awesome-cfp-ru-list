@@ -21,11 +21,11 @@
 
 ## Многопрофильные
 
-| Конференция                                  | Место       | Дата             | CFP                                                                                                       |
-| -------------------------------------------- | ----------- | ---------------- | --------------------------------------------------------------------------------------------------------- |
-| [CodeFest 13](https://13.codefest.ru/)       | Новосибирск | 27-28 мая, 2023  | [RU](https://13.codefest.ru/speakers/ru/call-for-papers/)                                                 |
-| [UWDC 2023](https://uwdc.ru/)                | Челябинск   | 3 июня, 2023     | [RU](https://forms.yandex.ru/u/63f609f9068ff0205956912b/)                                                 |
-| [UDW 2023](https://ural-digital-weekend.ru/) | Пермь       | 4-5 августа 2023 | [RU](https://docs.google.com/forms/d/e/1FAIpQLSfbyqdJASMM5JEKoHA0ETWCg2yHYFPjIFwjR-laTTWuQZUxEg/viewform) |
+| Конференция                                  | Место            | Дата                | CFP                                                                                                       |
+| -------------------------------------------- | ---------------- | ------------------- | --------------------------------------------------------------------------------------------------------- |
+| [UDW 2023](https://ural-digital-weekend.ru/) | Пермь            | 4-5 августа 2023    | [RU](https://docs.google.com/forms/d/e/1FAIpQLSfbyqdJASMM5JEKoHA0ETWCg2yHYFPjIFwjR-laTTWuQZUxEg/viewform) |
+| [UIC DEV](https://uic.dev/)                  | Ижевск           | 30 сентября 2023    | есть только кнопка                                                                                        |
+| [Стачка 2023](https://nastachku.ru/)         | Ульяновск, УлГПУ | 15-16 сентября 2023 | [RU](https://nastachku.ru/lectures-new)                                                                   |
 
 ## Фронтенд
 
@@ -37,10 +37,7 @@
 
 ## Менеджмент
 
-| Конференция                                                  | Место           | Дата              | CFP                                                                     |
-| ------------------------------------------------------------ | --------------- | ----------------- | ----------------------------------------------------------------------- |
-| [Agile Days 2023](https://agiledays.ru/)                     | Москва          | 19 и 26 мая, 2023 | [RU, EN](https://agiledays.ru/speakers/)                                |
-| [Saint TeamLead Conf 2023](https://teamleadconf.ru/spb/2023) | Санкт-Петербург | 29-30 июня, 2023  | [RU, EN](https://conf.ontico.ru/lectures/propose?conference=tl2023-spb) |
+Нет открытых CFP
 
 ## HR
 
