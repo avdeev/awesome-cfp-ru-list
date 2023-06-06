@@ -27,7 +27,10 @@
 | [UDW 2023](https://ural-digital-weekend.ru/)       | Пермь                          | 4-5 августа 2023       | [RU](https://docs.google.com/forms/d/e/1FAIpQLSfbyqdJASMM5JEKoHA0ETWCg2yHYFPjIFwjR-laTTWuQZUxEg/viewform)       |
 | [UIC DEV](https://uic.dev/)                        | Ижевск                         | 30 сентября 2023       | [RU](https://docs.google.com/forms/d/e/1FAIpQLScEVXS0mrGdiYip5GgBI6xZoaaz1n0uDsqQXZBqTIPYl6NbKw/viewform)       |
 | [Стачка 2023](https://nastachku.ru/)               | Ульяновск, УлГПУ               | 15-16 сентября 2023    | [RU](https://nastachku.ru/lectures-new)                                                                         |
+| [CrossConf](https://crossconf.com/)                | Москва                         | 15 сентября 2023       | [RU](https://docs.google.com/forms/d/e/1FAIpQLScT6BtkfnUi1HT_LKPHrJ-kdYLIuX1Gd2W8yvBKSfR2hVfoDg/viewform)       |
 | [YAMAL DEV CONF 2023](https://yamal.dev/conf/2023) | г. Салехард                    | -                      | -                                                                                                               |
+| [DevFest Omsk 2023](https://www.devfestomsk.ru/)   | Омск                           | 6-8 октября 2023       | [RU](https://forms.yandex.ru/cloud/63fcd62850569043a9319aee/)                                                   |
+| [Dump](http://dump-spb.ru/)                        | Санкт-Петербург                | 13 октября 2023        | [RU](http://dump-spb.ru/for_speakers)                                                                           |
 | [HighLoad++ 2023](https://highload.ru/moscow/2023) | Москва                         | 27 и 28 ноября 2023    | [RU, EN](https://conf.ontico.ru/lectures/propose?conference=hl2023-moscow)                                      |
 
 ## Фронтенд
