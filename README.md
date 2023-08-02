@@ -46,7 +46,10 @@
 
 | Конференция                                              | Место  | Дата          | CFP                                                                        |
 | -------------------------------------------------------- | ------ | ------------- | -------------------------------------------------------------------------- |
-| [Product Sense](https://vk.com/css_moscow)                   | Москва | июнь, июль    | [RU](https://clc.to/moscowcss_cfp)                                         |
+| [Summer Product Camp]([[https://vk.com/css_moscow](https://productsense.io/)](https://productcamp.ru/))                   | Москва | 19-20 августа    | [RU]                                        |
+
+| [Product Sense]([https://vk.com/css_moscow](https://productsense.io/))                   | Москва | 4-5 сентября    | [RU]                                        |
+
 
 ## HR
 
