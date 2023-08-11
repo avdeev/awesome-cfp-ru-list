@@ -30,9 +30,9 @@
 | [YAMAL DEV CONF 2023](https://yamal.dev/conf/2023) | г. Салехард      | -                   | -                                                                                                         |
 | [DevFest Omsk 2023](https://www.devfestomsk.ru/)   | Омск             | 6-8 октября 2023    | [RU](https://forms.yandex.ru/cloud/63fcd62850569043a9319aee/)                                             |
 | [Kolesa Conf 2023](https://kolesa-conf.kz/)        | Казахстан        | 7 октября 2023      | -                                                                                                         |
-| [Dump](http://dump-spb.ru/)                        | Санкт-Петербург  | 13 октября 2023     | [RU](http://dump-spb.ru/for_speakers)                                                                     |
 | [IT Nights 2023](https://highload.ru/moscow/2023)  | Иннополис        | 4-6 ноября 2023     | [RU](https://it-nights.ru/#rec488136427)                                                                  |
 | [HighLoad++ 2023](https://highload.ru/moscow/2023) | Москва           | 27 и 28 ноября 2023 | [RU, EN](https://conf.ontico.ru/lectures/propose?conference=hl2023-moscow)                                |
+| [Dump](http://dump-spb.ru/)                        | Санкт-Петербург  | 16 февраля 2024     | [RU](http://dump-spb.ru/for_speakers)                                                                     |
 
 ## Фронтенд
 
