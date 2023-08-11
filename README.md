@@ -24,9 +24,9 @@
 | Конференция                                        | Место            | Дата                | CFP                                                                                                       |
 | -------------------------------------------------- | ---------------- | ------------------- | --------------------------------------------------------------------------------------------------------- |
 | [GP DAYS](https://gpdays.globus-ltd.ru/)           | Нижний Новгород  | 6-8 сентября 2023   | -                                                                                                         |
-| [UIC DEV](https://uic.dev/)                        | Ижевск           | 30 сентября 2023    | [RU](https://docs.google.com/forms/d/e/1FAIpQLScEVXS0mrGdiYip5GgBI6xZoaaz1n0uDsqQXZBqTIPYl6NbKw/viewform) |
 | [Стачка 2023](https://nastachku.ru/)               | Ульяновск, УлГПУ | 15-16 сентября 2023 | [RU](https://nastachku.ru/lectures-new)                                                                   |
 | [CrossConf](https://crossconf.com/)                | Москва           | 15 сентября 2023    | [RU](https://docs.google.com/forms/d/e/1FAIpQLScT6BtkfnUi1HT_LKPHrJ-kdYLIuX1Gd2W8yvBKSfR2hVfoDg/viewform) |
+| [UIC DEV](https://uic.dev/)                        | Ижевск           | 30 сентября 2023    | [RU](https://docs.google.com/forms/d/e/1FAIpQLScEVXS0mrGdiYip5GgBI6xZoaaz1n0uDsqQXZBqTIPYl6NbKw/viewform) |
 | [YAMAL DEV CONF 2023](https://yamal.dev/conf/2023) | г. Салехард      | -                   | -                                                                                                         |
 | [DevFest Omsk 2023](https://www.devfestomsk.ru/)   | Омск             | 6-8 октября 2023    | [RU](https://forms.yandex.ru/cloud/63fcd62850569043a9319aee/)                                             |
 | [Kolesa Conf 2023](https://kolesa-conf.kz/)        | Казахстан        | 7 октября 2023      | -                                                                                                         |
@@ -36,11 +36,11 @@
 
 ## Фронтенд
 
-| Конференция                                              | Место  | Дата          | CFP                                                                        |
-| -------------------------------------------------------- | ------ | ------------- | -------------------------------------------------------------------------- |
-| [moscowcss](https://vk.com/css_moscow)                   | Москва | июнь, июль    | [RU](https://clc.to/moscowcss_cfp)                                         |
-| [FrontendConf 2023](https://frontendconf.ru/moscow/2023) | Москва | сентябрь 2023 | [RU, EN](https://conf.ontico.ru/lectures/propose?conference=fc2023-moscow) |
-| [HolyJS 2023 Autumn](https://holyjs.ru/)                 | -      | осень, 2023   | [RU, EN](https://holyjs.ru/callforpapers/)                                 |
+| Конференция                                              | Место                  | Дата          | CFP                                                                        |
+| -------------------------------------------------------- | ---------------------- | ------------- | -------------------------------------------------------------------------- |
+| [moscowcss](https://vk.com/css_moscow)                   | Москва                 | июнь, июль    | [RU](https://clc.to/moscowcss_cfp)                                         |
+| [FrontendConf 2023](https://frontendconf.ru/moscow/2023) | Москва                 | сентябрь 2023 | [RU, EN](https://conf.ontico.ru/lectures/propose?conference=fc2023-moscow) |
+| [HolyJS 2023 Autumn](https://holyjs.ru/)                 | Санкт-Петербург/Онлайн | осень, 2023   | [RU, EN](https://holyjs.ru/callforpapers/)                                 |
 
 ## Менеджмент
 
