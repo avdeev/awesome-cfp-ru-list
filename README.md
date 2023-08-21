@@ -36,11 +36,11 @@
 
 ## Фронтенд
 
-| Конференция                                              | Место                  | Дата          | CFP                                                                        |
-| -------------------------------------------------------- | ---------------------- | ------------- | -------------------------------------------------------------------------- |
-| [moscowcss](https://vk.com/css_moscow)                   | Москва                 | июнь, июль    | [RU](https://clc.to/moscowcss_cfp)                                         |
-| [FrontendConf 2023](https://frontendconf.ru/moscow/2023) | Москва                 | сентябрь 2023 | [RU, EN](https://conf.ontico.ru/lectures/propose?conference=fc2023-moscow) |
-| [HolyJS 2023 Autumn](https://holyjs.ru/)                 | Санкт-Петербург/Онлайн | осень, 2023   | [RU, EN](https://holyjs.ru/callforpapers/)                                 |
+| Конференция                                              | Место                  | Дата                  | CFP                                                                        |
+| -------------------------------------------------------- | ---------------------- | ----------------------| -------------------------------------------------------------------------- |
+| [moscowcss](https://vk.com/css_moscow)                   | Москва                 | июнь, июль            | [RU](https://clc.to/moscowcss_cfp)                                         |
+| [FrontendConf 2023](https://frontendconf.ru/moscow/2023) | Москва                 | 2-3 октября 2023      | [RU, EN](https://conf.ontico.ru/lectures/propose?conference=fc2023-moscow) |
+| [HolyJS 2023 Autumn](https://holyjs.ru/)                 | Санкт-Петербург/Онлайн | 2-3, 11-12 ноября 2023| [RU, EN](https://holyjs.ru/callforpapers/)                                 |
 
 ## Менеджмент
 
