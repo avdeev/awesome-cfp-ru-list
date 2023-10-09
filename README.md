@@ -21,12 +21,13 @@
 
 ## Многопрофильные
 
-| Конференция                                        | Место           | Дата                | CFP                                                                        |
-| -------------------------------------------------- | --------------- | ------------------- | -------------------------------------------------------------------------- |
-| [UFADEVCONF V](https://dc.ufacoder.com/)           | Уфа             | 18 ноября 2023      | [RU](https://dc.ufacoder.com/#registration)                                |
-| [YAMAL DEV CONF 2023](https://yamal.dev/conf/2023) | г. Салехард     | -                   | [RU](https://yamal.dev/conf#speakers)                                      |
-| [HighLoad++ 2023](https://highload.ru/moscow/2023) | Москва          | 27 и 28 ноября 2023 | [RU, EN](https://conf.ontico.ru/lectures/propose?conference=hl2023-moscow) |
-| [Dump](http://dump-spb.ru/)                        | Санкт-Петербург | 16 февраля 2024     | [RU](http://dump-spb.ru/for_speakers)                                      |
+| Конференция                                                                                                     | Место           | Дата                | CFP                                                                        |
+| --------------------------------------------------------------------------------------------------------------- | --------------- | ------------------- | -------------------------------------------------------------------------- |
+| [UFADEVCONF V](https://dc.ufacoder.com/)                                                                        | Уфа             | 18 ноября 2023      | [RU](https://dc.ufacoder.com/#registration)                                |
+| [Chipec 6](https://docs.google.com/presentation/d/1prikMkWZHJ0DtUcQQxVCgreiwpVLffbUt_vhIHPL028/edit#slide=id.p) | Красноярск      | 18 ноября 2023      | телеграм                                                                   |
+| [YAMAL DEV CONF 2023](https://yamal.dev/conf/2023)                                                              | г. Салехард     | -                   | [RU](https://yamal.dev/conf#speakers)                                      |
+| [HighLoad++ 2023](https://highload.ru/moscow/2023)                                                              | Москва          | 27 и 28 ноября 2023 | [RU, EN](https://conf.ontico.ru/lectures/propose?conference=hl2023-moscow) |
+| [Dump](http://dump-spb.ru/)                                                                                     | Санкт-Петербург | 16 февраля 2024     | [RU](http://dump-spb.ru/for_speakers)                                      |
 
 ## Фронтенд
 
