@@ -1,3 +1,5 @@
+
+
 # Awesome CFP RU List [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > CFP (англ. Call for Papers) — сбор заявок на выступление с докладом.
@@ -5,7 +7,7 @@
 Знаете CFP, которого у нас нет, или видите неактуальность данных?
 
 - Создайте пулреквест! [Правила редактирования](CONTRIBUTING.md).
-- ИЛИ Напишите email: aad.jerry+cfp@gmail.com
+- ИЛИ Напишите email: [aad.jerry+cfp@gmail.com](mailto:aad.jerry+cfp@gmail.com)
 - ИЛИ Напишите в Telegram: https://t.me/alexey_avdeev
 
 Вдохновлено [web-standards-ru/cfp-list](https://github.com/web-standards-ru/cfp-list)
